@@ -1,6 +1,0 @@
-{
-  "workspace.preview_append_paths" : false,
-  "workspace.preview_root" : "_site",
-  "workspace.preview_type" : "custom",
-  "workspace.preview_url" : "http:\/\/localhost:8080"
-}

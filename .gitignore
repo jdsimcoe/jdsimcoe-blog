@@ -1,9 +1,13 @@
-_site/
-_tmp/
+# System
 .DS_Store
-node_modules/
-.vscode/
-_site/
+
+# Dev
 *git/
+.vscode/
+node_modules/
 package-lock.json
 .env
+
+# 11ty
+_site/
+_tmp/
